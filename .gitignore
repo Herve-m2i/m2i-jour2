@@ -1,0 +1,6 @@
+# fichier des mots de passe
+config.yaml
+
+# Ignore le répoertoire et son contenu
+/logs/*
+!logs/.gitkeep
